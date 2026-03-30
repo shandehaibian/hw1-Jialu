@@ -14,6 +14,8 @@ This repository is created for Assignment 1 of the Generative AI course, explori
 
 | Commit Hash | Message |
 |-------------|---------|
+| `e50798e` | Add video link to README.md |
+| `bbbf383` | Update README.md with latest commit history |
 | `2a62482` | Add content to final_version.md and update README.md |
 | `727b4a4` | Add content and prompt reflection note to assistant_draft.md |
 | `498d0cb` | Add initial project files |
